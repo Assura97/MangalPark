@@ -1,19 +1,22 @@
-body{
+/* body{
   background-color: green;
   font-size: 25px;
-}
+} */
 
-.start_block{
+/* .start_block{
 position: fixed;
-border: 25px solid red;
+border: 1px solid red;
+background-image: url(../image/photo/logo.jpg);
+background-repeat: no-repeat;
+background-size: 50%;
+background-position: center center;
+background-color: #412019;
 top:0;
 width: 100vw;
-height: 7vh;
-background-color: red;
+height: 10vh;
 text-align: left;
 font-size: 2em;
-
-}
+} */
 
 .full-screen{
   box-sizing: border-box;
@@ -23,14 +26,13 @@ font-size: 2em;
   height: 100vh;
   text-align: center;
   background-color: beige;
-  background-image: url(../image/food.jpg);
+  background-image: url(../image/photo/FullScreen.jpg);
   background-repeat: no-repeat;
-  background-size: cover;
-  background-position: center center;
+  background-size: 100%;
+  background-position:center;
   padding-top: 15%;
-  color: green;
 }
-
+/* 
 .heading{
   color: rgb(241, 10, 10);
   font-size: 75px;
@@ -55,4 +57,4 @@ font-size: 2em;
   border:1px solid;
   font-size: 25px;
   color: inherit;
-}
+} */
